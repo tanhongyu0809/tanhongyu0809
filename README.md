@@ -69,4 +69,4 @@ I'm a Software Engineering student actively seeking a 6-month internship (Nov 20
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/hong-yu-tan-440ab63b6/)
 - 🌐 [Portfolio Website](https://tanhongyu0809.github.io/portfolio-website/)
-- ✉️ [Email Me](mailto:tanhongyu0809@gmail.com)
+- ✉️ [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=tanhongyu0809@gmail.com)
