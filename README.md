@@ -10,11 +10,9 @@ I'm a Software Engineering student actively seeking a 6-month internship (Nov 20
 
 **Bachelor of Software Engineering (Honours)** | *TAR UMT, Malaysia*  
 📅 Jun 2024 – Present | 🎯 CGPA: 3.59 / 4.0  
-- **Core Coursework:** Full-Cycle Software Engineering (SDLC), OOP, Data Structures & Algorithms, AI & Image Processing, Database Management, Networks, QA.
-
-**Foundation in Computing** | *TAR UMT, Malaysia*  
-📅 Jun 2023 – Jun 2024 | 🎯 CGPA: 3.22 / 4.0  
-- **Core Coursework:** Computer Networks, IT Essentials, Data Management, Web Development, Emerging Trends in IT.
+- **Core Programming Knowledge:** Object-Oriented Programming (OOP) | Data Structures & Algorithms (DSA) | Database Management | Computer Organization and Architecture (COA)
+- **Core Software Engineering Knowledge:** Linux OS & Server | Computer Networks | System Analysis and Design | Software Requirement Engineering | Software Design and Architecture | Software Testing | Software Quality and Measurement | Software Engineering Ethics and Professionalism | Software Project Management | Software Maintenance | Software Security and Safety
+- **Specialized Studies:** Cloud Computing | Advance database management | Artificial Intelligence (AI) | Data Science | Internet Security | Image Processing
 
 ---
 
