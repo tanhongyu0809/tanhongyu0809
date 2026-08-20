@@ -58,11 +58,26 @@ I'm a Software Engineering student actively seeking a 6-month internship (Nov 20
 ---
 
 ### 🏆 Certifications & Awards
+**Honors & Awards**
 - **Dean's List (x2)** & **Soft Skills Competency Gold Award** @ TAR UMT
-- **Gemini Certified Educator** (Google)
-- **Applied Skills: Generate Reports with AI Agents** (Microsoft)
+
+**AI & Cloud**
+- **Gemini Certified Educator** (Google for Education)
+- **Applied Skills: AI Agents** (Microsoft)
+- **Career Essentials in Gen AI** (Microsoft & LinkedIn)
+- **What Is Generative AI?** (LinkedIn)
 - **Apsara Clouder Gen AI** (Alibaba Cloud)
-- **Intro to Data Science & Networks** (Cisco)
+- **Claude 101** & **Claude Code 101** (Anthropic)
+- **Generative AI for Finance** (Bank Rakyat)
+
+**Networking & Data Science**
+- **CCNA: Intro to Networks** (Cisco Networking Academy)
+- **Intro to Data Science** (Cisco Networking Academy)
+
+**Programming & General**
+- **Python (Basic)** & **Java (Basic)** (HackerRank)
+- **Digital Fluency** (Bank Rakyat)
+
 
 ---
 
